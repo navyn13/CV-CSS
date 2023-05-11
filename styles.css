@@ -1,0 +1,155 @@
+
+.land{
+    position: relative;
+    background-color: #d5ebeb;
+    height: 592px;
+}
+.navigation-bar{
+    display: flex;
+    height: 150px;
+    padding: 28px;
+    padding-top: 0px;
+    justify-content: center;
+
+}
+.me{
+
+    width: 300px;
+    padding: 20px;
+    margin-right: 100px;
+    
+
+}
+.selfie{
+    height: 90px;
+    width: 90px;
+}
+.navigation-content{
+    display: flex;
+    gap: 5em;
+    justify-content: flex-end;
+    align-items: center;
+    width: 350px;
+    padding: 20px;
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+ 
+
+}
+.cloud-container{
+    display: flex;
+    justify-content: center;
+
+}
+.left-cloud{
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.mountain{
+    display: flex;
+    justify-content: space-around;
+    height: 215px;
+    position: relative;
+   
+}
+.introduction{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    width: 100%;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 100px;
+    
+    
+}
+.cartoon{
+    height: 150px;
+    margin-top: 50px;
+}
+
+hr {
+    border-color: rgb(218, 218, 218);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    
+}
+.para{
+    
+    width: 427px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #21564b;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+}
+.hi{
+    font-size: 25px;
+    padding: 10px  ;
+    color: #348b79;
+     margin-top: 20px;
+     margin-bottom: 20px ;
+     font-size: 2rem;
+
+}
+.introduction2{
+    margin-top: 100px;
+}
+.heading1{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px  ;
+    color: #1a5246;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    font-size: 3rem;
+
+}
+.block1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 5em;
+ 
+}
+.block1 img{
+    height: 200px;
+    opacity: 0.8;
+}
+.para2{
+    width: 350px;  
+    color: #21564b;
+    font-size: 1.3rem;
+    margin-bottom: 50px;
+}
+.collage{
+    display: grid;
+}
+.para3{
+    width: 575px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #21564b;
+   
+}
+.button {
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #348b79;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.button_{
+    text-align: center;
+}
